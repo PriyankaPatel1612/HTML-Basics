@@ -1,0 +1,49 @@
+
+
+
+--> World Wide Web 
+# Its collection of websites or web pages stored in servers.
+# Tim Berners-Lee in 1989 invented WWW.
+# A collection of information access through the internet.
+# WWW can be viewd as collection of books on that stored
+# WWW is software-oriented as compare to internet.
+# WWW is the subset of internet.
+# WWW works on the basis of HTTP.
+
+-->Internet
+# highway to acces information.
+# Internt can viewed as a big book stored.
+# Internet is primarily hardware based.
+# Internet is superset of www.
+# Internet works on the basis of internet protocol(IP). 
+# Internet is a vast network that connects computers all over the world.
+# Through the internet people can share information and communicate from anywhere.
+
+
+-->How WWW works?
+
+#  WWW works on client-server model
+-> client-computer's browser ->sends request the server
+-> browser send request to the server and fetch the page that we have entered in the address bar of the browser.
+-> the server checks if the page exists, then the server will send the html page in response.
+-> if requested page doesn't exist then the server sends the 404 error code which means the web page doesn't exist. 
+
+-->Server
+
+# server is a simple computer which hosts our websites content and has an internet connection
+# server is not a special computer we can even make our desktop a web server, we all need to do is having a static IP and 24/7 internet connection
+# Example: Apache web server, a free open source web server. 
+
+-->Ishort
+
+1> a user enters URL into browser (for ex-google.com)
+2> The request is passed to a domain name server.
+3> the domain name coverted in IP address and checks it is available or not then it gives response(backend process)
+4> the browser collects all the information and displays to your computer in the web page
+5> Every domain server name has static IP address
+6> the web page contains links, other files on the same server such as images, which the browser will also request.
+
+-->Intresting facts
+
+# on august 6, 1991 the first website http://info.cern.ch went online.
+# berner lee uploaded first photo on the web in 1992.
